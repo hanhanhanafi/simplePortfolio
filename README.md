@@ -6,4 +6,4 @@ single page personal portfolio website
 Demo : https://simplemyportfolio.netlify.app/
 
 ### Screenshot
-https://github.com/hanhanhanafi/simplePortfolio/blob/master/img/screenshot.png
+![Screenshot](https://github.com/hanhanhanafi/simplePortfolio/blob/master/img/screenshot.png)
